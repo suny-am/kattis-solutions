@@ -1,0 +1,14 @@
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/bin/Debug/net7.0/verify-this-ym
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/bin/Debug/net7.0/verify-this-ym.deps.json
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/bin/Debug/net7.0/verify-this-ym.runtimeconfig.json
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/bin/Debug/net7.0/verify-this-ym.dll
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/bin/Debug/net7.0/verify-this-ym.pdb
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/obj/Debug/net7.0/verify-this-ym.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/obj/Debug/net7.0/verify-this-ym.AssemblyInfoInputs.cache
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/obj/Debug/net7.0/verify-this-ym.AssemblyInfo.cs
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/obj/Debug/net7.0/verify-this-ym.csproj.CoreCompileInputs.cache
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/obj/Debug/net7.0/verify-this-ym.dll
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/obj/Debug/net7.0/refint/verify-this-ym.dll
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/obj/Debug/net7.0/verify-this-ym.pdb
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/obj/Debug/net7.0/verify-this-ym.genruntimeconfig.cache
+/home/sunyam-pi/Projects/dotnet-course/verify-this-ym/obj/Debug/net7.0/ref/verify-this-ym.dll

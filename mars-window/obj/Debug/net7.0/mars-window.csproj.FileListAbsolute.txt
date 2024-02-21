@@ -1,0 +1,14 @@
+/home/sunyam-pi/Projects/dotnet-course/mars-window/obj/Debug/net7.0/mars-window.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunyam-pi/Projects/dotnet-course/mars-window/obj/Debug/net7.0/mars-window.AssemblyInfoInputs.cache
+/home/sunyam-pi/Projects/dotnet-course/mars-window/obj/Debug/net7.0/mars-window.AssemblyInfo.cs
+/home/sunyam-pi/Projects/dotnet-course/mars-window/obj/Debug/net7.0/mars-window.csproj.CoreCompileInputs.cache
+/home/sunyam-pi/Projects/dotnet-course/mars-window/bin/Debug/net7.0/mars-window
+/home/sunyam-pi/Projects/dotnet-course/mars-window/bin/Debug/net7.0/mars-window.deps.json
+/home/sunyam-pi/Projects/dotnet-course/mars-window/bin/Debug/net7.0/mars-window.runtimeconfig.json
+/home/sunyam-pi/Projects/dotnet-course/mars-window/bin/Debug/net7.0/mars-window.dll
+/home/sunyam-pi/Projects/dotnet-course/mars-window/bin/Debug/net7.0/mars-window.pdb
+/home/sunyam-pi/Projects/dotnet-course/mars-window/obj/Debug/net7.0/mars-window.dll
+/home/sunyam-pi/Projects/dotnet-course/mars-window/obj/Debug/net7.0/refint/mars-window.dll
+/home/sunyam-pi/Projects/dotnet-course/mars-window/obj/Debug/net7.0/mars-window.pdb
+/home/sunyam-pi/Projects/dotnet-course/mars-window/obj/Debug/net7.0/mars-window.genruntimeconfig.cache
+/home/sunyam-pi/Projects/dotnet-course/mars-window/obj/Debug/net7.0/ref/mars-window.dll

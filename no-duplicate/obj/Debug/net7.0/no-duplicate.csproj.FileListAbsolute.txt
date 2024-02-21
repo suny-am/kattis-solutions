@@ -1,0 +1,14 @@
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/bin/Debug/net7.0/no-duplicate
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/bin/Debug/net7.0/no-duplicate.deps.json
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/bin/Debug/net7.0/no-duplicate.runtimeconfig.json
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/bin/Debug/net7.0/no-duplicate.dll
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/bin/Debug/net7.0/no-duplicate.pdb
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/obj/Debug/net7.0/no-duplicate.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/obj/Debug/net7.0/no-duplicate.AssemblyInfoInputs.cache
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/obj/Debug/net7.0/no-duplicate.AssemblyInfo.cs
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/obj/Debug/net7.0/no-duplicate.csproj.CoreCompileInputs.cache
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/obj/Debug/net7.0/no-duplicate.dll
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/obj/Debug/net7.0/refint/no-duplicate.dll
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/obj/Debug/net7.0/no-duplicate.pdb
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/obj/Debug/net7.0/no-duplicate.genruntimeconfig.cache
+/home/sunyam-pi/Projects/dotnet-course/no-duplicate/obj/Debug/net7.0/ref/no-duplicate.dll
